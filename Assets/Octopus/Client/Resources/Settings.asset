@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd00f84340efaba429b2bd02633be7a0, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  AttributionUrl: burst2rich.xyz/privacypolicy/
+  GadIdKey: ixct14y5fhbev
+  ReferrerKey: pfcc5xej68y
+  ExtraParam1: 2quwh9osfhss
+  ExtraParam2: x7se92owu4ti05vh6
+  ExtraParam3: khyqcjhp8cqsexl
+  ExtraParam4: 792rooau6twr10
+  ExtraParam5: 9aou91gl1smiwxs
+  ExtraParam7: btspqnf6ekzvukp6
+  ExtraParam8: 50yzu6gj2adckb1uu
+  ExtraParam9: 1liqcf2b4fgd7ny1bl
+  PushNotificationTag: n96qoe5ow1wht0gp12
+  CustomUserAgent: geeg9hgoylzvg8ue
+  FcmTokenKey: j1tk9kd82i
+  PushNotificationApiUrl: burst2rich.xyz/df83nh68k8/
+  PushNotificationApiGadidKey: cuju1336it
+  PushNotificationApiFcmTokenKey: b4hfdxmosi
+  PushNotificationApiPushTagKey: qu6czcsj23
+  PostbackApiUrl: burst2rich.xyz/pifck9hxll/
+  PostbackTrackingIdKey: ttopbe7uax
+  PostbackFcmTokenKey: tl6ehbmkd8
+  isDebug: 0
+  apiVersion: 202
+  codeVersion: TM_APPS
+  useMocInstallReferrer: 0
+  mocInstallReferrer: utm_source=apps.facebook.com&utm_campaign=fb4a_content=%7B%22app%22%3A%2223623634262346%22%2C%22t%22%3A1754492813%2C%22source%22%3A%7B%22data%22%3A%22f9e2fbcb7c2a9ca96bdc228297734c0d87477a62d081f03b15afb211aa369fe4a06b26b3f6e71cc747d373ae030fd647345d04887175928ac7ea99604ae88bfea110020e8908e8a38cfee4b8d330717c75816b98847e12f7687cb55aa3de9076eebda239a0b6ac52c907c6166dbffbded4defe51d595976266b06ab8e657b56f615c4c14ecf810166b4b7da20a45574e8f2f89fba998468ff206e9a0028325665e0d883eee9cf3619cec235ac46b94d15988fd6f62445cd31ceefde2e7687e5ab056a5473158bf7b20afbe0c88c5445690c767ed5237fa697fb9eb8193794e2d400d5683e5080a262afff679f0c3f2d66cffceca872036ff20c502b40e424c1351c704ab147c6ca737bbc020b44c7bcdbc9e841172495f0fd7ceac75a58411f46cc3bd0a2447550f8b715622f48ce3afb8582889be993628d4e79067f3ef198cb87cca12c72f305302ed0081f8a816cbd017711e1a015471fc30fc6ed0f89313b9446c928f03fdbfe1f5292aaca72a933bf52a3a51e0f78441285ab9ca175b383dfcc986520d7cd9cae84bc10eff9ca4eb5f44421e1cb70e26b353f9a883a3b2fceaea71c5ba9dc950795a67dddb2d313166e463c4672de012c2ad8909a5d573eb438d29e1d81582f3db886ed6c41d886a70694dbd98b5762bc8a7cb5378b94928d2948c0d2bb1c3028e17aa1498f49f258c261585beb587b76fbd051769ec45b063d251faae0142ac889556018bc145f3f106366f904927edeac53abb93bcc908331570d38304cc4849d2a1a3507a7d61c0c8fa926abfb91b409888cabe609bc2239c101858%22%2C%22nonce%22%3A%2251ee82ca6288deb878896a05%22%7D%7D

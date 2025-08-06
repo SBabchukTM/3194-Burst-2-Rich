@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "678514545233",
+    "project_id": "burst-2-rich",
+    "storage_bucket": "burst-2-rich.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678514545233:android:bd69748556558d78a4de70",
+        "android_client_info": {
+          "package_name": "com.dc.hw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJQ7Z8nIE2uOwcE7zUeCvqcueSHrHGX0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
